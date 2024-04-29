@@ -1,0 +1,1 @@
+Settings->Compiler->others Compiler option(type:-  -fopenmp)->Linker settings->Other linker settings(type:-  -lgomp -pthread)->Toolchain executable->autodetect->ok.
